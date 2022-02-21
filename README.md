@@ -1,1 +1,1 @@
-# cinnamon-2---lavacoffee
+# Cinnamon 2 - Lavalink
